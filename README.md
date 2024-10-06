@@ -1,2 +1,2 @@
 # GameRPG2D
-Game 2D created by Members of group 6 - 65KTPM 
+The Game 2D is created by Members of group 6 - 65KTPM 
